@@ -3,7 +3,7 @@
 **Fault Detection, Isolation and Recovery (FDIR)** 
 
 
-An IRONHACK/Berlin Machine Learning project by Andres Lucht (github.com/andres2203) and Georgios Papadopoulos (github.com/GeorgiosKP).
+An IRONHACK/Berlin Machine Learning project by Andres Lucht (github.com/andres2203) and Georgios Papadopoulos (github.com/georpap).
 
 
 
@@ -16,11 +16,9 @@ Examination and evaluation of sensor related data of a hydraulic testing rig. Pr
 
 # 2. Content
 
-\data: sensor data
+data: sensor data
 
-\descriptions: Further descriptions
-
-\experimental: experimental notebooks (see experimental)
+descriptions: Further descriptions
 
 merged_df.pkl: data file
 
@@ -49,9 +47,3 @@ merged_df.pkl: data file
 3. Feature elimination (RFECV)
 4. Evaluation on test set
 
-**experimental** 
-1. Clustering
-   1. PCA
-   2. LDA
-2. Analysis
-   1. FFT
