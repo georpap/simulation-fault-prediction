@@ -11,7 +11,7 @@ An IRONHACK/Berlin Machine Learning project by Andres Lucht (github.com/andres22
 
 Data Source: [Condition monitoring of hydraulic systems Data Set ](https://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems)
 
-Examination and evaluation of sensor related data of a hydraulic testing rig. Prediction 4 different target values for stable situation/fault detection.
+Examination and evaluation of sensor related data of a hydraulic testing rig. Prediction of 4 different target values for stable condition / fault detection.
 
 
 # 2. Content
