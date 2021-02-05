@@ -16,9 +16,8 @@ Examination and evaluation of sensor related data of a hydraulic testing rig. Pr
 
 # 2. Content
 
-data: sensor data
-merged_df.pkl: data file
 
+merged_df.pkl: the data file after merging and cleaning
 
 
 01-load_and_examine_data.ipynb
