@@ -16,11 +16,8 @@ Examination and evaluation of sensor related data of a hydraulic testing rig. Pr
 
 # 2. Content
 
-data: sensor data
-
-descriptions: Further descriptions
-
-merged_df.pkl: data file
+data:             sensor data
+merged_df.pkl:    data file
 
 
 
