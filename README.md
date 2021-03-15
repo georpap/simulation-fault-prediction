@@ -3,7 +3,7 @@
 **Fault Detection, Isolation and Recovery (FDIR)** 
 
 
-An IRONHACK/Berlin Machine Learning project by Andres Lucht (github.com/andres2203) and Georgios Papadopoulos (github.com/georpap).
+A Machine Learning / Regression project by Andres Lucht (github.com/andres2203) and Georgios Papadopoulos (github.com/georpap).
 
 
 
